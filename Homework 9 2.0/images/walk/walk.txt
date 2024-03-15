@@ -1,7 +1,0 @@
-./images/walk/Run (1).png
-./images/walk/Run (2).png
-./images/walk/Run (3).png
-./images/walk/Run (4).png
-./images/walk/Run (5).png
-./images/walk/Run (6).png
-./images/walk/Run (7).png
