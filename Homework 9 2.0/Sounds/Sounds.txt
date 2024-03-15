@@ -1,0 +1,3 @@
+./Sounds/BackgroundMusic.wav
+./Sounds/Fail.mp3
+./Sounds/Success.ogg
